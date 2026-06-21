@@ -1,0 +1,6 @@
+{
+  "name": "Tranceform Fitness",
+  "description": "Join Tranceform Fitness, the best unisex gym in Dhankawadi Pune. Modern equipment, expert trainers, weight loss, muscle building, personal training and affordable memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
